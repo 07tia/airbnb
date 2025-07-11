@@ -18,6 +18,8 @@ Files & Access
 -
 Due to the large file sizes, the following resources have been uploaded to a Google Drive folder:
 
+https://drive.google.com/drive/folders/1yXy4eMIUXjzAdTTYUM93K1ubAkRbZpBF?usp=sharing
+
 1. The CSV dataset used in analysis
 
 2. The Hive query file
